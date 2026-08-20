@@ -1,0 +1,5 @@
+paho-mqtt>=2.0
+pystray>=0.19
+customtkinter>=5.2
+pyperclip>=1.9
+Pillow>=10.0
