@@ -87,7 +87,7 @@
 ## 🚀 快速上手
 
 ### 方式一：直接运行独立 EXE（推荐）
-1. 从项目 Release 获取已发布的 SmsGlint EXE；请注意当前 `v1.2.0` 源码尚未重新编译发布。
+1. 从项目 Release 获取已发布的 SmsGlint EX。
 2. 双击运行即可。首次运行会自动弹出配置窗口，填写 MQTT 连接信息并保存。
 3. 托盘图标将常驻在右下角任务栏。
 
@@ -196,7 +196,6 @@ SmsGlint 会在程序同级目录下自动维护 `config.json` 配置文件：
    pyinstaller SmsGlint.spec
    ```
 3. 构建产物默认输出到 `dist` 目录。
-
 > 
 
 ---
